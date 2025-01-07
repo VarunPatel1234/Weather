@@ -16,6 +16,6 @@ A simple web app to display real-time weather data using HTML, CSS, JavaScript.
 
 
 
-(https://varunpatel1234.github.io/Weather/)
+https://varunpatel1234.github.io/Weather/
 
 
