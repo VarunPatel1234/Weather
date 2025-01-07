@@ -14,9 +14,8 @@ A simple web app to display real-time weather data using HTML, CSS, JavaScript.
 
 ## Deployment Link
 
-To deploy this project run
 
-```bash
-https://prabhatzz.github.io/Weather-/
-```
+
+(https://varunpatel1234.github.io/Weather/)
+
 
